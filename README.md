@@ -2,6 +2,7 @@ A program to predict stock prices for any stock using SVM (Support Vector Machin
 and using Linear Regression.
 
 To use:
+	
 	1. Register on Quandl and get the API Key.
 	
 	2. Put the Quandl API Key in the line: 
